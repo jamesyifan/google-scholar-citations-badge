@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import json
 
 # 你的 Google Scholar ID
-SCHOLAR_ID = "GX05vA4AAAAJ"
+SCHOLAR_ID = "olsrsjEAAAAJ"
 URL = f"https://scholar.google.com/citations?user={SCHOLAR_ID}&hl=en"
 
 headers = {
